@@ -58,7 +58,7 @@ When the circuit is connected to the battery, electric current flows through the
 *  Result  
   We successfully made a creative LED greeting card using simple materials and an LED circuit.
 
-![][image2]
+![][image2][RESULT](result.jpeg)
 
 * Conclusion  
 * The  project helped us to understand the basic flow of electric current and LED connection while creating a useful and attractive greeting card.
